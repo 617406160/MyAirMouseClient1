@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\AndroidStudioWorkplace\\MyAirMouseClient1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\login.xml",
+        "source": "E:\\AndroidStudioWorkplace\\MyAirMouseClient1\\app\\src\\main\\res\\menu\\login.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWorkplace\\MyAirMouseClient1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\control.xml",
+        "source": "E:\\AndroidStudioWorkplace\\MyAirMouseClient1\\app\\src\\main\\res\\menu\\control.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioWorkplace\\MyAirMouseClient1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sensor_control.xml",
+        "source": "E:\\AndroidStudioWorkplace\\MyAirMouseClient1\\app\\src\\main\\res\\menu\\sensor_control.xml"
+    }
+]
