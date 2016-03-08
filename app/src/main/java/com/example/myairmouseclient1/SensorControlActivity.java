@@ -12,6 +12,10 @@ import android.view.View;
 import android.view.View.OnTouchListener;
 import android.widget.Button;
 
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.PrintStream;
+
 public class SensorControlActivity extends Activity {
 	private float current_x;// 鼠标现在的坐标
 	private float current_y;
@@ -69,6 +73,15 @@ public class SensorControlActivity extends Activity {
 						currentangle_y = newangle_y;
 						String message = "mouse:"+delta_x+","+delta_y;
 						sender.send(message);
+
+						try {
+							FileOutputStream fileOutputStream = new FileOutputStream("e;\\out.txt");
+							PrintStream printStream =new PrintStream(fileOutputStream);
+							printStream.print(delta_x);
+							printStream.close();;
+						} catch (FileNotFoundException e) {
+							e.printStackTrace();
+						}
 					
 
 					}

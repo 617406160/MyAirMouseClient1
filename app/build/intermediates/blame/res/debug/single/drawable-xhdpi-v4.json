@@ -52,12 +52,12 @@
         "source": "E:\\AndroidStudioWorkplace\\MyAirMouseClient1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xhdpi\\abc_ab_bottom_solid_light_holo.9.png"
     },
     {
-        "merged": "E:\\AndroidStudioWorkplace\\MyAirMouseClient1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
-        "source": "E:\\AndroidStudioWorkplace\\MyAirMouseClient1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
-    },
-    {
         "merged": "E:\\AndroidStudioWorkplace\\MyAirMouseClient1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_ab_stacked_transparent_dark_holo.9.png",
         "source": "E:\\AndroidStudioWorkplace\\MyAirMouseClient1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\20.0.0\\res\\drawable-xhdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioWorkplace\\MyAirMouseClient1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "E:\\AndroidStudioWorkplace\\MyAirMouseClient1\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\AndroidStudioWorkplace\\MyAirMouseClient1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\abc_spinner_ab_disabled_holo_light.9.png",
